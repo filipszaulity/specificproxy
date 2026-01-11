@@ -23,12 +23,14 @@ curl http://localhost:8080/ips
 # {
 #   "ips": [
 #     {"interface": "eth0", "ip": "192.168.1.10", "version": 4},
-#     {"interface": "eth0", "ip": "2001:db8::1", "version": 6}
+#     {"interface": "eth0", "ip": "2a01:4ff:1f0:11f8::1", "version": 6}
 #   ]
 # }
 
 # Proxy request with specific egress IP
-curl -x http://localhost:8080 -H "X-Egress-IP: 2001:db8::1" https://example.com
+curl -x http://localhost:8080 --proxy-header "X-Egress-IP: 2a01:4ff:1f0:11f8::1" https://icanhazip.com
+
+# 2a01:4ff:1f0:11f8::1
 ```
 
 ## Environment Variables
